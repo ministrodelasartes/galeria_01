@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "materia-luz-2025",
+    "title": "Materia & Luz",
+    "startDate": "2025-07-10",
+    "endDate": "2025-09-30",
+    "location": "GALERIA 01",
+    "description": "Una curaduría de obras que dialogan entre textura y luminancia.",
+    "cover": "https://images.unsplash.com/photo-1517817748490-58fdd8f13a9b?q=80&w=1400&auto=format&fit=crop",
+    "works": [
+      "serie-cromatica-i",
+      "ensamble-luz-iii",
+      "retrato-en-azul"
+    ]
+  },
+  {
+    "slug": "geometrias-2025",
+    "title": "Geometrías del Presente",
+    "startDate": "2025-05-01",
+    "endDate": "2025-08-31",
+    "location": "GALERIA 01",
+    "description": "Ensayos visuales en torno a la forma como lenguaje.",
+    "cover": "https://images.unsplash.com/photo-1482192596544-9eb780fc7f66?q=80&w=1400&auto=format&fit=crop",
+    "works": [
+      "mapa-urbano",
+      "serie-cromatica-i"
+    ]
+  }
+]

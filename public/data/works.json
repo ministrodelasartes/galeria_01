@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "serie-cromatica-i",
+    "title": "Serie Cromática I",
+    "year": 2024,
+    "medium": "Acrílico sobre tela",
+    "dimensions": "80 x 80 cm",
+    "image": "https://images.unsplash.com/photo-1549880338-65ddcdfd017b?q=80&w=1000&auto=format&fit=crop",
+    "artist_slug": "valentina-rios",
+    "description": "Estudio de gradientes y ritmos cromáticos."
+  },
+  {
+    "slug": "ensamble-luz-iii",
+    "title": "Ensamble de Luz III",
+    "year": 2025,
+    "medium": "Instalación lumínica",
+    "dimensions": "Site-specific",
+    "image": "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?q=80&w=1000&auto=format&fit=crop",
+    "artist_slug": "martin-gomez",
+    "description": "Interacción entre sombra y volumen."
+  },
+  {
+    "slug": "retrato-en-azul",
+    "title": "Retrato en Azul",
+    "year": 2023,
+    "medium": "Óleo sobre lino",
+    "dimensions": "60 x 50 cm",
+    "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=1000&auto=format&fit=crop",
+    "artist_slug": "natalia-paz"
+  },
+  {
+    "slug": "mapa-urbano",
+    "title": "Mapa Urbano",
+    "year": 2025,
+    "medium": "Tinta y collage",
+    "dimensions": "40 x 60 cm",
+    "image": "https://images.unsplash.com/photo-1512295767273-ac109ac3acfa?q=80&w=1000&auto=format&fit=crop",
+    "artist_slug": "valentina-rios"
+  },
+  {
+    "slug": "corteza",
+    "title": "Corteza",
+    "year": 2022,
+    "medium": "Fotografía",
+    "dimensions": "30 x 40 cm",
+    "image": "https://images.unsplash.com/photo-1504198266285-165a9c45e0ed?q=80&w=1000&auto=format&fit=crop",
+    "artist_slug": "martin-gomez"
+  },
+  {
+    "slug": "atlas-minimo",
+    "title": "Atlas mínimo",
+    "year": 2021,
+    "medium": "Acuarela",
+    "dimensions": "20 x 15 cm",
+    "image": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?q=80&w=1000&auto=format&fit=crop",
+    "artist_slug": "valentina-rios"
+  }
+]

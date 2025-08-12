@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "valentina-rios",
+    "name": "Valentina Ríos",
+    "bio": "Artista visual chilena que explora color y geometría en soportes mixtos.",
+    "location": "Santiago, Chile",
+    "website": "https://example.com",
+    "instagram": "https://instagram.com/example",
+    "avatar": "https://images.unsplash.com/photo-1544006659-f0b21884ce1d?q=80&w=400&auto=format&fit=crop"
+  },
+  {
+    "slug": "martin-gomez",
+    "name": "Martín Gómez",
+    "bio": "Escultor y artista digital. Explora materialidades híbridas.",
+    "location": "Valparaíso, Chile",
+    "instagram": "https://instagram.com/example2",
+    "avatar": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?q=80&w=400&auto=format&fit=crop"
+  },
+  {
+    "slug": "natalia-paz",
+    "name": "Natalia Paz",
+    "bio": "Pintora figurativa con enfoque en luz natural.",
+    "location": "Concepción, Chile",
+    "instagram": "https://instagram.com/example3",
+    "avatar": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?q=80&w=400&auto=format&fit=crop"
+  },
+  {
+    "slug": "diego-arevalo",
+    "name": "Diego Arévalo",
+    "bio": "Fotógrafo y artista de nuevos medios.",
+    "location": "La Serena, Chile",
+    "instagram": "https://instagram.com/example4",
+    "avatar": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?q=80&w=400&auto=format&fit=crop"
+  }
+]
