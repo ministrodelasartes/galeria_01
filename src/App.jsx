@@ -26,7 +26,7 @@ function Header({ page, setPage, clearDetail }) {
       <div className="max-w-6xl mx-auto px-4">
         <div className="h-16 flex items-center justify-between">
           <button className="tracking-tight text-xl md:text-2xl font-extrabold" style={{ fontFamily: '"Press Start 2P", monospace' }} onClick={() => { setPage("home"); clearDetail(); }}>GALERIA 01</button>
-          <button onClick={() => { setPage("postular"); clearDetail(); }} className="inline-flex items-center px-3 py-1.5 rounded-full text-xs border border-neutral-900">Postular</button>
+          <button onClick={() => { setPage("postular"); clearDetail(); }} className="inline-flex items-center px-3 py-1.5 rounded-full text-xs border border-neutral-900">Unirse</button>
         </div>
         <nav className="h-12 flex items-center justify-center gap-6 text-sm">
           <button onClick={() => { setPage("exposiciones"); clearDetail(); }} className={page === "exposiciones" ? "font-semibold" : "hover:underline"}>Exposiciones</button>
